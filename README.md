@@ -4,4 +4,12 @@ it is an flutter application build for all compatible devices android,web,macos 
 - Android Studio / VS code 
 - Flutter/Dart
 - Firebase
+## ✨Features
 
+- User Login & Sign up
+- User Databases
+- User Authentication
+- Choices for application to do operation
+
+  ## Screenshots 📱
+  
